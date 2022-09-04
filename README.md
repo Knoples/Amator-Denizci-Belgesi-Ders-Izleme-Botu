@@ -27,7 +27,7 @@ python yazınca olmazsa python3 dersbot.py veya py dersbot.py yazıp deneyebilir
 
 
 
-
+amatör denizci belgesi ders izleme botu
 
 
 Bu bir projedir. Lütfen bunu kullanmayınız. Derslerinizi kendiniz izleyiniz ve sınavınıza giriniz. Bu projenin kaldırılmasını istiyorsanız lütfen bana ulaşın. Mail : berkayyahsi@hotmail.com
