@@ -4,7 +4,7 @@ NASIL KULLANILIR:
 
 Öncelikle bilgisayarınızda python olması gerekiyor. Yoksa python'u indirin ve kurun. Kurarken yanında pip ' i de indirin.
 
-Bilgisayarınıza Firefox yükleyin. Zaten yüklüyse gerek yok. Başka tarıyıclarda çalışmaz.
+Bilgisayarınıza Firefox yükleyin. Zaten yüklüyse gerek yok. Başka tarayıcılarda çalışmaz.
 
 https://github.com/mozilla/geckodriver/releases bu siteye gidip Assets kısmındaki indirme yerlerinden bilgisayarınızın işletim sistemine göre olanı seçip indirin. Dosyayı zip ' ten çıkartın. İçerisindeki geckodriver.exe dosyasını alıp "Amatör Denizci Belgesi Botu Main" dosyasının içine atınız. İçerisindeyken çalıştırıp kapatınız.
 
